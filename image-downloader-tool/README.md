@@ -1,9 +1,5 @@
 # Download Images From Image Search Engine
 
-Download images including urls from Google, Bing, Flickr, Instagram with given keyword
-
-> Demo: https://www.youtube.com/watch?v=zfMBE3D9IG4
-
 ## Configuration
 
 Copy these following information to corresponding fields in the `secret.ini` file
@@ -95,3 +91,4 @@ optional arguments:
 
 -   https://www.pyimagesearch.com/2018/04/09/how-to-quickly-build-a-deep-learning-image-dataset/
 -   https://www.pyimagesearch.com/2017/12/04/how-to-create-a-deep-learning-dataset-using-google-images/
+-   https://github.com/18520339 (Quân Đặng)
