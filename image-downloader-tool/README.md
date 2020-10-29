@@ -75,16 +75,17 @@ optional arguments:
 
 **5. Download images from url file:**
 
--   Example: `python download_images.py -o 'images' -u 'cat.txt'`
+-   Example: `python download_images.py -o 'images' -u 'cat.txt' -p 'Bing'`
 
 ```
-usage: download_images.py [-h] -o OUT -u URLS [-s START]
+usage: download_images.py [-h] -o OUT -u URLS [-s START] -p PageName
 
 optional arguments:
   -h, --help                show this help message and exit
   -o OUT, --out OUT         path to images directory
   -u URLS, --urls URLS      path to image urls file
   -s START, --start START   start number of image name
+  -p PageName, --page PageName Name of web where image will be crawled
 ```
 
 ## Many thanks to
